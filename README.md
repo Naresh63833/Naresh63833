@@ -12,7 +12,7 @@ I'm Your Naresh, a passionate developer from Chennai. I love coding and building
 ...
 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naresh63833&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
 
