@@ -17,7 +17,7 @@ I'm Your Naresh, a passionate developer from Chennai. I love coding and building
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/naresh228/)
-- [Instagram]([https://twitter.com/yourusername](https://www.instagram.com/_p.naresh_/))
+- [Instagram](https://www.instagram.com/_p.naresh_/)
 - [Portfolio](https://nareshportfolio22.000webhostapp.com/index.html)
 
 Feel free to reach out and connect! 😊
