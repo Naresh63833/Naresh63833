@@ -14,6 +14,6 @@ I'm Your Naresh, a passionate developer from Chennai. I love coding and building
 
 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/naresh228/)
+- [LinkedIn](https://www.linkedin.com/in/nareshp22/)
 
 Feel free to reach out and connect! 😊
