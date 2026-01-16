@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Your Naresh, a passionate developer from Chennai. I love coding and building things for the web.
+I'm Your Naresh, a passionate developer from Chennai. I love coding and building things for all.
 
 🔧 Technologies & Tools
 
