@@ -4,17 +4,16 @@ I'm Your Naresh, a passionate developer from Chennai. I love coding and building
 
 🔧 Technologies & Tools
 
-•	Programming Language: C#, Java(Core)
-•	Web Technologies: HTML, CSS, JS, ASP.NET MVC
-•	Connectivity: ADO.NET
-•	Database Technology: MS SQL SERVER, My SQL
+•	Programming Languages C#, Java
+•	Frameworks and Platforms ASP.NET MVC , .NET Core
+•	Web & Service Technologies .NET Core Web API , Web Services, Windows Services
+•	Connectivity & Database MS SQL Server
+•	Tools Visual Studio, Postman, Swagger, Bitbucket, Jira
 
 ...
 
 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/naresh228/)
-- [Instagram](https://www.instagram.com/_p.naresh_/)
-- [Portfolio](https://nareshportfolio22.000webhostapp.com/index.html)
 
 Feel free to reach out and connect! 😊
